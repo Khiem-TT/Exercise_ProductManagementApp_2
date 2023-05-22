@@ -1,0 +1,7 @@
+{
+  "name": "Exercise_ProductManagementApp_2",
+  "version": "1.0.0",
+  "dependencies": {
+    "qs": "^6.11.2"
+  }
+}
